@@ -1,4 +1,3 @@
-# Place code below to do the munging part of this assignment.
 def changetemp(c):
     f = c / 100 * 1.8
     return format(f, ".1f")
